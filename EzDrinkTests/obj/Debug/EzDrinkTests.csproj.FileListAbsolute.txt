@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\103590026\103590026\103590026\EzDrinkTests\bin\Debug\EzDrinkTests.dll
+C:\Users\user\Desktop\103590026\103590026\103590026\EzDrinkTests\bin\Debug\EzDrinkTests.pdb
+C:\Users\user\Desktop\103590026\103590026\103590026\EzDrinkTests\bin\Debug\EzDrink.exe
+C:\Users\user\Desktop\103590026\103590026\103590026\EzDrinkTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\user\Desktop\103590026\103590026\103590026\EzDrinkTests\bin\Debug\EzDrink.pdb
+C:\Users\user\Desktop\103590026\103590026\103590026\EzDrinkTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\user\Desktop\103590026\103590026\103590026\EzDrinkTests\obj\Debug\EzDrinkTests.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\103590026\103590026\103590026\EzDrinkTests\obj\Debug\EzDrinkTests.dll
+C:\Users\user\Desktop\103590026\103590026\103590026\EzDrinkTests\obj\Debug\EzDrinkTests.pdb
