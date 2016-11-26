@@ -1,0 +1,2 @@
+# EzDrink
+WindowProgram EzDrink
