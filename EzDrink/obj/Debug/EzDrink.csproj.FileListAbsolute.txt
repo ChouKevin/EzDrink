@@ -35,3 +35,6 @@ C:\Users\user\Desktop\103590026\103590026\103590026\EzDrink\obj\Debug\EzDrink.cs
 C:\Users\user\Desktop\103590026\103590026\103590026\EzDrink\bin\Debug\EzDrink.exe
 C:\Users\user\Desktop\103590026\103590026\103590026\EzDrink\bin\Debug\EzDrink.pdb
 C:\Users\user\Desktop\103590026\103590026\103590026\EzDrink\obj\Debug\EzDrink.NumberOnlyTextBox.resources
+D:\103590026\EzDrink\bin\Debug\EzDrink.exe.config
+D:\103590026\EzDrink\obj\Debug\EzDrink.exe
+D:\103590026\EzDrink\obj\Debug\EzDrink.pdb
